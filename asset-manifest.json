@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/sai-portfolio/static/css/main.732d8c22.css",
-    "main.js": "/sai-portfolio/static/js/main.6efecdaf.js",
+    "main.js": "/sai-portfolio/static/js/main.4add7fd7.js",
     "static/js/453.6264690d.chunk.js": "/sai-portfolio/static/js/453.6264690d.chunk.js",
     "static/media/Sai_Resume.pdf": "/sai-portfolio/static/media/Sai_Resume.8351b1c0b4ee8a0a1c29.pdf",
     "static/media/powerbi.svg": "/sai-portfolio/static/media/powerbi.334efe11f64e8824f462516bbaf6c286.svg",
     "static/media/excel.svg": "/sai-portfolio/static/media/excel.7a9ca82f2e18007391fba0f223db0647.svg",
     "index.html": "/sai-portfolio/index.html",
     "main.732d8c22.css.map": "/sai-portfolio/static/css/main.732d8c22.css.map",
-    "main.6efecdaf.js.map": "/sai-portfolio/static/js/main.6efecdaf.js.map",
+    "main.4add7fd7.js.map": "/sai-portfolio/static/js/main.4add7fd7.js.map",
     "453.6264690d.chunk.js.map": "/sai-portfolio/static/js/453.6264690d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.732d8c22.css",
-    "static/js/main.6efecdaf.js"
+    "static/js/main.4add7fd7.js"
   ]
 }
